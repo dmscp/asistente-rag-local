@@ -1,0 +1,14 @@
+[
+ {"n": 1, "pregunta": "¿Qué seis funciones propone el Tema 1 para ordenar la ciberseguridad en un ciclo común?", "correcta": "Gobernar, identificar, proteger, detectar, responder y recuperar", "doc": "Tema1_Ciberseguridad_Apuntes.pdf", "paginas": [12, 13]},
+ {"n": 2, "pregunta": "¿Cuáles son las cuatro estrategias generales de tratamiento del riesgo?", "correcta": "Reducir, evitar, transferir y aceptar", "doc": "Tema1_Ciberseguridad_Apuntes.pdf", "paginas": [6]},
+ {"n": 3, "pregunta": "¿Usar contraseña y PIN se considera autenticación multifactor?", "correcta": "No: son dos pasos pero ambos son del factor 'algo que sabes'", "doc": "Tema1_Ciberseguridad_Apuntes.pdf", "paginas": [8]},
+ {"n": 4, "pregunta": "¿Qué ejemplo de alerta se pone en el Tema 1?", "correcta": "80 intentos fallidos en un minuto desde un origen nuevo", "doc": "Tema1_Ciberseguridad_Apuntes.pdf", "paginas": [10]},
+ {"n": 5, "pregunta": "¿Cuáles son las fases del ciclo de respuesta a incidentes del Tema 1?", "correcta": "Preparar, detectar y analizar, contener, erradicar/corregir, recuperar y aprender", "doc": "Tema1_Ciberseguridad_Apuntes.pdf", "paginas": [11]},
+ {"n": 6, "pregunta": "¿Qué diferencia hay entre riesgo inherente y riesgo residual?", "correcta": "Inherente: antes de considerar controles; residual: el que queda tras aplicarlos", "doc": "Tema1_Ciberseguridad_Apuntes.pdf", "paginas": [14]},
+ {"n": 7, "pregunta": "¿Cuántos discos necesita como mínimo un RAID 5 y cuántos fallos de disco tolera?", "correcta": "Al menos 3 discos; tolera el fallo de 1", "doc": "Tema2_Ciberseguridad.pdf", "paginas": [6]},
+ {"n": 8, "pregunta": "¿Qué diferencia hay entre una copia incremental y una diferencial?", "correcta": "Incremental: cambios desde la copia anterior; diferencial: cambios desde la última completa", "doc": "Tema2_Ciberseguridad.pdf", "paginas": [8]},
+ {"n": 9, "pregunta": "¿Qué RPO y RTO se proponen en el Tema 2 para la documentación interna poco cambiante?", "correcta": "24 h de RPO y 24 h de RTO", "doc": "Tema2_Ciberseguridad.pdf", "paginas": [10]},
+ {"n": 10, "pregunta": "En la actividad propuesta del Tema 2, ¿cuánto ocupa la base de datos académica y qué porcentaje cambia al día?", "correcta": "250 GB y un 8 % diario", "doc": "Tema2_Ciberseguridad.pdf", "paginas": [14]},
+ {"n": 11, "pregunta": "¿Qué puerto usa SSH por defecto?", "correcta": "NO ESTÁ en los apuntes: debe decir que no lo sabe", "doc": null, "paginas": []},
+ {"n": 12, "pregunta": "¿Qué día es el examen del Tema 2?", "correcta": "NO ESTÁ en los apuntes: debe decir que no lo sabe", "doc": null, "paginas": []}
+]
