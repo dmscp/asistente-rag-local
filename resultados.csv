@@ -8,7 +8,7 @@
 5. **Monitoreo y evaluación**: Monitorear y evaluar la efectividad de las medidas de seguridad.
 6. **Aprendizaje y mejora**: Aprender de los errores y mejorar continuamente las medidas de seguridad.
 
-Estas seis funciones forman el ciclo de la ciberseguridad, que busca proteger la información y los sistemas de una organización contra amenazas y vulnerabilidades.";4.6;;"Según el Tema 1 de los apuntes de Ciberseguridad, las seis funciones propuestas para ordenar la ciberseguridad en un ciclo común son:
+Estas seis funciones forman el ciclo de la ciberseguridad, que busca proteger la información y los sistemas de una organización contra amenazas y vulnerabilidades.";5.4;;"Según el Tema 1 de Ciberseguridad, las seis funciones propuestas para ordenar la ciberseguridad en un ciclo común son:
 
 1. Confirmar
 2. Contener
@@ -17,16 +17,16 @@ Estas seis funciones forman el ciclo de la ciberseguridad, que busca proteger la
 5. Corregir
 6. Recuperar
 
-Estas funciones se mencionan en la página 13 del documento ""CIBERSEGURIDAD - TEMA 1 - FUNDAMENTOS"".";3.7;"Tema1 p.13 (0.74); Tema1 p.17 (0.73); Tema1 p.8 (0.73); Tema1 p.10 (0.72)";sí;;"Según el Tema 1, las seis funciones propuestas para ordenar la ciberseguridad en un ciclo común son:
+Estas funciones se mencionan en la página 13 del documento ""CIBERSEGURIDAD - TEMA 1 - FUNDAMENTOS"".";3.9;"Tema1 p.13 (0.74); Tema1 p.17 (0.73); Tema1 p.8 (0.73); Tema1 p.10 (0.72)";sí;;"Según el Tema 1, las seis funciones propuestas para ordenar la ciberseguridad en un ciclo común son:
 
-1. Responder
-2. Recuperar
-3. Detectar
-4. Correctir
-5. Preventir (no se menciona explícitamente, pero se hace referencia a la defensa en profundidad)
-6. Comprar (no se menciona explícitamente, pero se hace referencia a la compra de herramientas de detección y seguridad)
+1. Confirmar
+2. Contener
+3. Investigar
+4. Comunicar
+5. Corregir
+6. Recuperar
 
-Sin embargo, en el contexto del ciclo de seguridad, se menciona que la defensa en profundidad es una forma de ""prevenir"" incidentes, pero no se menciona explícitamente como una función separada. (Tema1_Ciberseguridad_Apuntes.pdf, pág. 15)";6.6;"Tema1 p.17 (0.74); Tema1 p.13 (0.73); Tema1 p.10 (0.72); Tema1 p.7 (0.72)";sí;
+(Este texto se encuentra en el documento ""CIBERSEGURIDAD - TEMA 1 - FUNDAMENTOS"" de la página 13)";4.7;"Tema1 p.17 (0.74); Tema1 p.13 (0.73); Tema1 p.10 (0.72); Tema1 p.7 (0.72)";sí;
 2;¿Cuáles son las cuatro estrategias generales de tratamiento del riesgo?;Reducir, evitar, transferir y aceptar;"Las cuatro estrategias generales de tratamiento del riesgo en ciberseguridad son:
 
 1. **Prevenión**: Implementar medidas para evitar que el riesgo se produzca, como la educación de los empleados, la actualización de software y la implementación de medidas de seguridad.
@@ -34,27 +34,25 @@ Sin embargo, en el contexto del ciclo de seguridad, se menciona que la defensa e
 3. **Respuesta**: En caso de que se produzca un ataque, responder rápidamente y eficazmente para minimizar el daño y restaurar la integridad de los sistemas y datos.
 4. **Reparación**: Restaurar los sistemas y datos dañados después de un ataque, y tomar medidas para prevenir que se repita en el futuro.
 
-Estas estrategias se complementan entre sí y son fundamentales para proteger la seguridad y la integridad de los sistemas y datos en la era digital.";5.2;;"Las cuatro estrategias generales de tratamiento del riesgo son:
+Estas estrategias se complementan entre sí y son fundamentales para proteger la seguridad y la integridad de los sistemas y datos en la era digital.";5.4;;"Las cuatro estrategias generales de tratamiento del riesgo son:
 
 1. Reducir: Aplicar controles para disminuir la probabilidad o la consecuencia del riesgo.
 2. Tratamiento: La estrategia necesita otra capa de control.
-3. Aceptar: Aceptar el riesgo y no tomar medidas para mitigarlo.
-4. Transferir: Transfear el riesgo a otra entidad, como un seguro.";3.3;"Tema1 p.6 (0.68); Tema1 p.6 (0.68); Tema2 p.8 (0.68); Tema1 p.6 (0.67)";sí;;"Según los apuntes, las cuatro estrategias generales de tratamiento del riesgo son:
+3. Evitar: Evitar el riesgo en sí mismo, no permitir que ocurra.
+4. Aceptar: Aceptar el riesgo y tomar medidas para mitigarlo. (Tema1-Ciberseguridad.pdf, pág. 6)";3.8;"Tema1 p.6 (0.68); Tema1 p.6 (0.68); Tema2 p.8 (0.68); Tema1 p.6 (0.67)";sí;;"Según el contexto, las cuatro estrategias generales de tratamiento del riesgo son:
 
-1. Valoración: evaluar el riesgo para determinar su probabilidad y impacto.
+1. Valoración: evaluar la probabilidad y el impacto del riesgo.
 2. Priorización: priorizar los riesgos según su importancia y urgencia.
 3. Tratamiento: implementar medidas para mitigar o eliminar el riesgo.
-4. Vigilancia: monitorear y revisar las medidas de tratamiento para asegurarse de que sigan siendo efectivas.
-
-(Tema1_Ciberseguridad_Apuntes.pdf, pág. 5)";4.9;"Tema1 p.9 (0.68); Tema1 p.14 (0.67); Tema1 p.6 (0.66); Tema1 p.12 (0.66)";sí;
+4. Monitoreo: supervisar y revisar las medidas de tratamiento para asegurarse de que funcionen correctamente. (Tema1-Ciberseguridad.pdf, pág. 12)";4.7;"Tema1 p.9 (0.68); Tema1 p.14 (0.67); Tema1 p.6 (0.66); Tema1 p.12 (0.66)";sí;
 3;¿Usar contraseña y PIN se considera autenticación multifactor?;No: son dos pasos pero ambos son del factor 'algo que sabes';"No, usar contraseña y PIN no se considera autenticación multifactor. La autenticación multifactor requiere al menos dos factores de verificación, como:
 
 1. Credencial (contraseña o PIN)
 2. Factor de reconocimiento (biometría, código de seguridad, etc.)
 3. Factor de entorno (ubicación, dispositivo, etc.)
 
-En este caso, solo se utiliza una credencial, por lo que no se considera autenticación multifactor.";2.7;;No, usar contraseña y PIN no se considera autenticación multifactor. (Tema1_Ciberseguridad_Apuntes.pdf, pág. 8);2.2;"Tema1 p.8 (0.75); Tema1 p.8 (0.72); Tema1 p.8 (0.70); Tema1 p.8 (0.69)";sí;;No lo sé, esa información no está en los apuntes.;3.2;"Tema1 p.8 (0.77); Tema1 p.8 (0.71); Tema1 p.7 (0.69); Tema1 p.14 (0.68)";sí;
-4;¿Qué ejemplo de alerta se pone en el Tema 1?;80 intentos fallidos en un minuto desde un origen nuevo;"En el Tema 1 de ciberseguridad, se menciona el ejemplo de alerta ""Phishing"" o ""Engaño por correo electrónico"". Este tipo de ataque implica el envío de correos electrónicos fraudulentos que parecen legítimos, pero que en realidad contienen enlaces o archivos maliciosos que pueden infectar el dispositivo del usuario con malware.";2.6;;Una alerta no es una conclusión, es una señal que necesita contexto. Un gran número de intentos fallidos a un servicio de acceso a la red. (Tema1_Ciberseguridad_Apuntes.pdf, pág. 11);2.8;"Tema1 p.10 (0.74); Tema1 p.11 (0.71); Tema1 p.15 (0.70); Tema1 p.7 (0.68)";sí;;Una alerta no es una conclusión, es una señal que necesita contexto. Un gran número de intentos fallidos puede ser un ataque, pero también una aplicación mal configurada. Un inicio de sesión desde una ubicación nueva puede ser sospechoso, pero también puede corresponder a un viaje.;4.5;"Tema1 p.10 (0.71); Tema1 p.11 (0.71); Tema1 p.13 (0.69); Tema1 p.7 (0.68)";sí;
+En este caso, solo se utiliza una credencial, por lo que no se considera autenticación multifactor.";2.5;;No, usar contraseña y PIN no se considera autenticación multifactor. (Tema1-Ciberseguridad.pdf, pág. 8);1.9;"Tema1 p.8 (0.75); Tema1 p.8 (0.72); Tema1 p.8 (0.70); Tema1 p.8 (0.69)";sí;;No lo sé, esa información no está en los apuntes.;2.8;"Tema1 p.8 (0.77); Tema1 p.8 (0.71); Tema1 p.7 (0.69); Tema1 p.14 (0.68)";sí;
+4;¿Qué ejemplo de alerta se pone en el Tema 1?;80 intentos fallidos en un minuto desde un origen nuevo;"En el Tema 1 de ciberseguridad, se menciona el ejemplo de alerta ""Phishing"" o ""Engaño por correo electrónico"". Este tipo de ataque implica el envío de correos electrónicos fraudulentos que parecen legítimos, pero que en realidad contienen enlaces o archivos maliciosos que pueden infectar el dispositivo del usuario con malware.";2.0;;Una alerta no es una conclusión, es una señal que necesita contexto. Un ejemplo de alerta podría ser un gran número de intentos fallidos de acceso a una cuenta administrativa. (Tema1-Ciberseguridad.pdf, pág. 11);2.4;"Tema1 p.10 (0.74); Tema1 p.11 (0.71); Tema1 p.15 (0.70); Tema1 p.7 (0.68)";sí;;No lo sé, esa información no está en los apuntes.;2.7;"Tema1 p.10 (0.71); Tema1 p.11 (0.71); Tema1 p.13 (0.69); Tema1 p.7 (0.68)";sí;
 5;¿Cuáles son las fases del ciclo de respuesta a incidentes del Tema 1?;Preparar, detectar y analizar, contener, erradicar/corregir, recuperar y aprender;"En el Tema 1 de la ciberseguridad, el ciclo de respuesta a incidentes se divide en las siguientes fases:
 
 1. **Detección**: Identificar el incidente y determinar su naturaleza.
@@ -65,7 +63,7 @@ En este caso, solo se utiliza una credencial, por lo que no se considera autenti
 6. **Rehabilitación**: Restaurar los sistemas y datos afectados a un estado de funcionamiento normal.
 7. **Aprendizaje**: Analizar el incidente y mejorar la respuesta a futuros incidentes.
 
-Estas fases son fundamentales para responder de manera efectiva a incidentes cibernéticos y minimizar el impacto en la organización.";5.9;;"Según el contexto, las fases del ciclo de respuesta a incidentes son:
+Estas fases son fundamentales para responder de manera efectiva a incidentes cibernéticos y minimizar el impacto en la organización.";5.0;;"Según el contexto, las fases del ciclo de respuesta a incidentes son:
 
 1. Confirmar
 2. Contener
@@ -73,7 +71,7 @@ Estas fases son fundamentales para responder de manera efectiva a incidentes cib
 4. Comunicar
 5. Corregir
 
-Estas fases se mencionan en la pág. 13 del documento ""CIBERSEGURIDAD - TEMA 1 - FUNDAMENTOS"".";3.1;"Tema1 p.11 (0.73); Tema1 p.13 (0.72); Tema1 p.17 (0.69); Tema1 p.10 (0.68)";sí;;"Según el Tema 1 de los apuntes de Ciberseguridad, las fases del ciclo de respuesta a incidentes son:
+Estas fases se mencionan en la página 13 del documento ""CIBERSEGURIDAD - TEMA 1 - FUNDAMENTOS"".";3.0;"Tema1 p.11 (0.73); Tema1 p.13 (0.72); Tema1 p.17 (0.69); Tema1 p.10 (0.68)";sí;;"Según el Tema 1 de Ciberseguridad, las fases del ciclo de respuesta a incidentes son:
 
 1. Confirmar
 2. Contener
@@ -81,15 +79,15 @@ Estas fases se mencionan en la pág. 13 del documento ""CIBERSEGURIDAD - TEMA 1 
 4. Comunicar
 5. Corregir
 
-Estas fases se mencionan en la sección 12 del Tema 1, donde se destaca la importancia de responder rápidamente a los incidentes, pero de manera methodológica para evitar empeorar la situación. (Tema1_Ciberseguridad_Apuntes.pdf, pág. 13)";5.7;"Tema1 p.11 (0.73); Tema1 p.13 (0.71); Tema1 p.17 (0.69); Tema2 p.3 (0.68)";sí;
+Estas fases se mencionan en la sección 12 del documento ""CIBERSEGURIDAD - TEMA 1 - FUNDAMENTOS"" (pág. 13).";4.8;"Tema1 p.11 (0.73); Tema1 p.13 (0.71); Tema1 p.17 (0.69); Tema2 p.3 (0.68)";sí;
 6;¿Qué diferencia hay entre riesgo inherente y riesgo residual?;"Inherente: antes de considerar controles; residual: el que queda tras aplicarlos";"En ciberseguridad, el riesgo inherente y el riesgo residual son dos conceptos importantes que se refieren a diferentes aspectos de la seguridad en línea.
 
 El riesgo inherente se refiere a la probabilidad de que un ataque o vulnerabilidad específica ocurra debido a la naturaleza del sistema o proceso en sí. Por ejemplo, si un sistema de red no tiene autenticación, es más probable que un atacante pueda acceder a él.
 
 El riesgo residual, por otro lado, se refiere a la probabilidad de que un ataque o vulnerabilidad ocurra después de que se han implementado medidas de seguridad para mitigarla. En otras palabras, es la probabilidad de que un atacante encuentre una forma de explotar una vulnerabilidad que ya se ha corregido.
 
-En resumen, el riesgo inherente se refiere a la probabilidad de que un ataque ocurra debido a la naturaleza del sistema, mientras que el riesgo residual se refiere a la probabilidad de que un atacante encuentre una forma de explotar una vulnerabilidad que ya se ha corregido.";5.8;;El riesgo inherente es el que existiría antes de considerar los controles, es decir, el riesgo que se presenta sin ninguna intervención. Por otro lado, el riesgo residual es el que permanece después de aplicar los controles, es decir, el riesgo que sigue existiendo después de tomar medidas para mitigarlo. (Tema1_Ciberseguridad_Apuntes.pdf, pág. 14);3.4;"Tema1 p.14 (0.84); Tema1 p.6 (0.75); Tema1 p.12 (0.71); Tema1 p.9 (0.69)";sí;;El riesgo inherente es el que existiría antes de considerar los controles, es decir, el riesgo que se presenta sin ninguna intervención. Por otro lado, el riesgo residual es el que permanece después de aplicar los controles, es decir, el riesgo que sigue existiendo después de que se toman medidas para mitigarlo. (Tema1_Ciberseguridad_Apuntes.pdf, pág. 14);4.7;"Tema1 p.14 (0.81); Tema1 p.9 (0.70); Tema1 p.3 (0.70); Tema1 p.6 (0.70)";sí;
-7;¿Cuántos discos necesita como mínimo un RAID 5 y cuántos fallos de disco tolera?;"Al menos 3 discos; tolera el fallo de 1";En RAID 5, el número mínimo de discos es 3. Sin embargo, el número de discos que puede tolerar un RAID 5 es 0, lo que significa que si se pierde un disco, el sistema se vuelve inestable y no puede funcionar.;1.5;;Un RAID 5 necesita como mínimo 3 discos y tolera 2 fallos de disco. (Tema2_Ciberseguridad.pdf, pág. 15);2.2;"Tema2 p.7 (0.76); Tema2 p.6 (0.75); Tema2 p.15 (0.74); Tema2 p.6 (0.73)";sí;;Un RAID 5 requiere al menos 3 discos y tolera 1 disco de fallo. (Tema2_Ciberseguridad.pdf, pág. 7);3.4;"Tema2 p.7 (0.78); Tema2 p.6 (0.72); Tema2 p.15 (0.69); Tema2 p.12 (0.68)";sí;
+En resumen, el riesgo inherente se refiere a la probabilidad de que un ataque ocurra debido a la naturaleza del sistema, mientras que el riesgo residual se refiere a la probabilidad de que un atacante encuentre una forma de explotar una vulnerabilidad que ya se ha corregido.";5.6;;El riesgo inherente es el que existiría antes de considerar los controles, es decir, el riesgo que se presenta sin ninguna intervención. Por otro lado, el riesgo residual es el que permanece después de aplicar los controles, es decir, el riesgo que sigue existiendo después de tomar medidas para mitigarlo. (Tema 1 - Ciberseguridad.pdf, pág. 14);3.2;"Tema1 p.14 (0.84); Tema1 p.6 (0.75); Tema1 p.12 (0.71); Tema1 p.9 (0.69)";sí;;El riesgo inherente es el que existiría antes de considerar los controles, es decir, el riesgo que se presenta sin ninguna intervención. Por otro lado, el riesgo residual es el que permanece después de aplicar los controles, es decir, el riesgo que sigue existiendo después de que se toman medidas para mitigarlo. (Tema1-Ciberseguridad.pdf, pág. 14);4.5;"Tema1 p.14 (0.81); Tema1 p.9 (0.70); Tema1 p.3 (0.70); Tema1 p.6 (0.70)";sí;
+7;¿Cuántos discos necesita como mínimo un RAID 5 y cuántos fallos de disco tolera?;"Al menos 3 discos; tolera el fallo de 1";En RAID 5, el número mínimo de discos es 3. Sin embargo, el número de discos que puede tolerar un RAID 5 es 0, lo que significa que si se pierde un disco, el sistema se vuelve inestable y no puede funcionar.;1.5;;Un RAID 5 necesita como mínimo 3 discos y tolera 2 fallos de disco. (Tema2-Ciberseguridad.pdf, pág. 15);2.1;"Tema2 p.7 (0.76); Tema2 p.6 (0.75); Tema2 p.15 (0.74); Tema2 p.6 (0.73)";sí;;Un RAID 5 requiere al menos 3 discos y tolera 1 disco de fallo. (Tema2-Ciberseguridad.pdf, pág. 7);3.3;"Tema2 p.7 (0.78); Tema2 p.6 (0.72); Tema2 p.15 (0.69); Tema2 p.12 (0.68)";sí;
 8;¿Qué diferencia hay entre una copia incremental y una diferencial?;"Incremental: cambios desde la copia anterior; diferencial: cambios desde la última completa";"Una copia incremental y una diferencial son dos métodos de copia de seguridad en ciberseguridad que se utilizan para proteger los datos de una pérdida o destrucción accidental.
 
 **Copia Incremental:**
@@ -102,26 +100,31 @@ En resumen, una copia incremental es más completa, pero requiere más espacio d
 
 Una copia diferencial requiere menos piezas que una copia incremental, ya que solo se copian las diferencias entre la copia anterior y la copia actual. Por otro lado, una copia incremental requiere más piezas, ya que se copian todas las piezas desde la copia anterior hasta la copia actual.
 
-(Consejos de seguridad en la gestión de copias, pág. 9)";4.3;"Tema2 p.8 (0.83); Tema2 p.9 (0.79); Tema2 p.14 (0.74); Tema2 p.10 (0.73)";sí;;"Una copia incremental y una copia diferencial se diferencian en cómo se guardan los cambios.
+(Consejos de seguridad en la era digital, pág. 9)";4.1;"Tema2 p.8 (0.83); Tema2 p.9 (0.79); Tema2 p.14 (0.74); Tema2 p.10 (0.73)";sí;;"Una copia incremental y una copia diferencial se diferencian en cómo se guardan los cambios.
 
 Una copia incremental guarda únicamente los cambios desde la copia anterior, mientras que una copia diferencial guarda los cambios desde la última copia completa. Esto significa que una copia incremental solo guarda los cambios que han ocurrido desde la última copia completa, mientras que una copia diferencial guarda todos los cambios desde la última copia completa, incluyendo los cambios que han ocurrido desde la última copia incremental.
 
-En otras palabras, una copia incremental es como un ""diario"" que solo registra los cambios que han ocurrido desde la última copia completa, mientras que una copia diferencial es como un ""diario"" que registra todos los cambios desde la última copia completa. (Tema2_Ciberseguridad.pdf, pág. 9)";6.5;"Tema2 p.8 (0.79); Tema2 p.9 (0.79); Tema2 p.14 (0.78); Tema2 p.8 (0.73)";sí;
+En otras palabras, una copia incremental es como un ""diario"" que solo registra los cambios que han ocurrido desde la última copia completa, mientras que una copia diferencial es como un ""diario"" que registra todos los cambios desde la última copia completa. (Tema2-Ciberseguridad.pdf, pág. 9)";6.5;"Tema2 p.8 (0.79); Tema2 p.9 (0.79); Tema2 p.14 (0.78); Tema2 p.8 (0.73)";sí;
 9;¿Qué RPO y RTO se proponen en el Tema 2 para la documentación interna poco cambiante?;24 h de RPO y 24 h de RTO;"En el Tema 2 de la ciberseguridad, se proponen los siguientes objetivos para la documentación interna poco cambiante:
 
 - RPO (Recovery Point Objective): Se establece un objetivo de recuperación de datos en un punto específico en el tiempo, es decir, se busca recuperar los datos en un estado funcional antes de una determinada fecha y hora.
 - RTO (Recovery Time Objective): Se establece un objetivo de tiempo para recuperar los datos, es decir, se busca recuperar los datos en un plazo determinado después de un incidente.
 
-En resumen, se busca recuperar los datos en un estado funcional antes de una determinada fecha y hora, y recuperar los datos en un plazo determinado después de un incidente.";3.9;;Para la documentación interna poco cambiante, se proponen RPO de 24 horas y RTO de 24 horas. (Tema2_Ciberseguridad.pdf, pág. 10);2.3;"Tema2 p.10 (0.73); Tema2 p.11 (0.70); Tema2 p.10 (0.68); Tema2 p.11 (0.66)";sí;;"Según el Tema 2, para la documentación interna poco cambiante, se proponen:
+En resumen, se busca recuperar los datos en un estado funcional antes de una determinada fecha y hora, y recuperar los datos en un plazo determinado después de un incidente.";3.9;;"Según el contexto, para la documentación interna poco cambiante, se proponen:
+
+* RPO (Recovery Point Objective): 24 horas
+* RTO (Recovery Time Objective): 24 horas
+
+(Conseguir una copia diaria puede ser suficiente si la restauración está probada, pág. 10, Tema2-Ciberseguridad.pdf)";3.2;"Tema2 p.10 (0.73); Tema2 p.11 (0.70); Tema2 p.10 (0.68); Tema2 p.11 (0.66)";sí;;"Según el Tema 2, para la documentación interna poco cambiante, se proponen:
 
 RPO (Recovery Point Objective): 24 horas
 RTO (Recovery Time Objective): 24 horas
 
-(Conseguir una copia diaria puede ser suficiente si la restauración está probada, por lo que no es necesario un RPO y RTO más estrictos para la documentación interna poco cambiante.) (Tema2_Ciberseguridad.pdf, pág. 10)";5.0;"Tema2 p.10 (0.71); Tema2 p.11 (0.69); Tema2 p.10 (0.68); Tema2 p.14 (0.67)";sí;
+(Conseguir una copia diaria puede ser suficiente si la restauración está probada, por lo que no es necesario un RPO y RTO más estrictos para la documentación interna poco cambiante.) (Tema2-Ciberseguridad.pdf, pág. 10)";5.0;"Tema2 p.10 (0.71); Tema2 p.11 (0.69); Tema2 p.10 (0.68); Tema2 p.14 (0.67)";sí;
 10;En la actividad propuesta del Tema 2, ¿cuánto ocupa la base de datos académica y qué porcentaje cambia al día?;250 GB y un 8 % diario;"Lo siento, pero no tengo información específica sobre la base de datos académica utilizada en el Tema 2 de la actividad propuesta. Sin embargo, puedo proporcionarte una respuesta general.
 
 La base de datos académica es un recurso importante para la investigación y el aprendizaje, y su tamaño y frecuencia de actualización pueden variar dependiendo del tema y la institución. En general, las bases de datos académicas pueden ocupar desde cientos de miles hasta millones de registros, y pueden cambiar al día debido a la publicación de nuevos artículos, la actualización de datos y la eliminación de registros obsoletos.
 
-Es posible que la base de datos académica utilizada en el Tema 2 sea una de las grandes bases de datos académicas como Google Scholar, Scopus o Web of Science, que pueden tener millones de registros y cambiar constantemente debido a la publicación de nuevos artículos y la actualización de datos. Sin embargo, sin más información, no puedo proporcionar un número específico sobre la base de datos académica utilizada en el Tema 2.";5.4;;Según el escenario didáctico, la base de datos académica ocupa aproximadamente 600 GB y cambia al día. Sin embargo, no se especifica el porcentaje de cambio al día. (Tema2_Ciberseguridad.pdf, pág. 11);2.8;"Tema2 p.14 (0.71); Tema2 p.11 (0.69); Tema2 p.9 (0.69); Tema2 p.11 (0.69)";sí;;La base de datos académica ocupa aproximadamente 250 GB y cambia un 8% al día. (Tema2_Ciberseguridad.pdf, pág. 14);1.1;"Tema2 p.10 (0.71); Tema2 p.14 (0.71); Tema2 p.4 (0.68); Tema1 p.11 (0.68)";sí;
-11;¿Qué puerto usa SSH por defecto?;NO ESTÁ en los apuntes: debe decir que no lo sabe;El puerto por defecto que utiliza SSH (Secure Shell) es el 22.;0.5;;No lo sé, esa información no está en los apuntes. (Tema2_Ciberseguridad.pdf, pág. 4);2.1;"Tema2 p.4 (0.66); Tema2 p.12 (0.65); Tema1 p.3 (0.64); Tema1 p.7 (0.64)";no aplica;;No lo sé, esa información no está en los apuntes.;2.7;"Tema1 p.7 (0.67); Tema2 p.4 (0.64); Tema2 p.9 (0.63); Tema2 p.12 (0.63)";no aplica;
-12;¿Qué día es el examen del Tema 2?;NO ESTÁ en los apuntes: debe decir que no lo sabe;Lo siento, pero no tengo información sobre un examen específico de Tema 2 en ciberseguridad. ¿Podrías proporcionar más contexto o detalles sobre el examen que estás refiriéndote? Estoy aquí para ayudarte.;1.5;;No lo sé, esa información no está en los apuntes. (Tema2_Ciberseguridad.pdf, pág. 6);1.6;"Tema2 p.6 (0.69); Tema2 p.17 (0.68); Tema2 p.3 (0.67); Tema1 p.15 (0.67)";no aplica;;No lo sé, esa información no está en los apuntes.;2.6;"Tema2 p.16 (0.66); Tema2 p.1 (0.66); Tema1 p.13 (0.66); Tema1 p.4 (0.66)";no aplica;
+Es posible que la base de datos académica utilizada en el Tema 2 sea una de las grandes bases de datos académicas como Google Scholar, Scopus o Web of Science, que pueden tener millones de registros y cambiar constantemente debido a la publicación de nuevos artículos y la actualización de datos. Sin embargo, sin más información, no puedo proporcionar un número específico sobre la base de datos académica utilizada en el Tema 2.";5.6;;Según el escenario didáctico, la base de datos académica ocupa aproximadamente 600 GB y cambia al día. Sin embargo, no se especifica el porcentaje de cambio al día. (Tema2-Ciberseguridad.pdf, pág. 11);2.7;"Tema2 p.14 (0.71); Tema2 p.11 (0.69); Tema2 p.9 (0.69); Tema2 p.11 (0.69)";sí;;La base de datos académica ocupa aproximadamente 250 GB y cambia un 8% al día. (Tema2-Ciberseguridad.pdf, pág. 14);3.5;"Tema2 p.10 (0.71); Tema2 p.14 (0.71); Tema2 p.4 (0.68); Tema1 p.11 (0.68)";sí;
+11;¿Qué puerto usa SSH por defecto?;NO ESTÁ en los apuntes: debe decir que no lo sabe;El puerto por defecto que utiliza SSH (Secure Shell) es el 22.;0.5;;No lo sé, esa información no está en los apuntes.;1.5;"Tema2 p.4 (0.66); Tema2 p.12 (0.65); Tema1 p.3 (0.64); Tema1 p.7 (0.64)";no aplica;;No lo sé, esa información no está en los apuntes.;2.6;"Tema1 p.7 (0.67); Tema2 p.4 (0.64); Tema2 p.9 (0.63); Tema2 p.12 (0.63)";no aplica;
+12;¿Qué día es el examen del Tema 2?;NO ESTÁ en los apuntes: debe decir que no lo sabe;Lo siento, pero no tengo información sobre un examen específico de Tema 2 en ciberseguridad. ¿Podrías proporcionar más contexto o detalles sobre el examen que estás refiriéndote? Estoy aquí para ayudarte.;1.4;;No lo sé, esa información no está en los apuntes.;1.3;"Tema2 p.6 (0.69); Tema2 p.17 (0.68); Tema2 p.3 (0.67); Tema1 p.15 (0.67)";no aplica;;No lo sé, esa información no está en los apuntes.;2.7;"Tema2 p.16 (0.66); Tema2 p.1 (0.66); Tema1 p.13 (0.66); Tema1 p.4 (0.66)";no aplica;
